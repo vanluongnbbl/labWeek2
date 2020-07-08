@@ -12,31 +12,31 @@ import { Feather } from '@expo/vector-icons'
 const feedData = [
   {
     id: 1,
-    name: 'Nguyen Van Luong',
+    name: 'Nguyen Van Quan',
     image: require('./assets/images/image1.jpg'),
     likeCount: 128,
-    avatar: require('./assets/images/Luong.jpg')
+    avatar: require('./assets/images/Quan.jpg')
   },
   {
     id: 2,
     name: 'Nguyen Van A',
     image: require('./assets/images/image2.jpg'),
     likeCount: 1228,
-    avatar: require('./assets/images/Luong.jpg')
+    avatar: require('./assets/images/Quan.jpg')
   },
   {
     id: 3,
     name: 'Nguyen Van B',
     image: require('./assets/images/image3.jpg'),
     likeCount: 1228,
-    avatar: require('./assets/images/Luong.jpg')
+    avatar: require('./assets/images/Quan.jpg')
   },
   {
     id: 4,
     name: 'Nguyen Van c',
     image: require('./assets/images/image4.jpg'),
     likeCount: 1228,
-    avatar: require('./assets/images/Luong.jpg')
+    avatar: require('./assets/images/Quan.jpg')
   },
 ]
 
