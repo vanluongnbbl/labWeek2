@@ -78,7 +78,7 @@ export default function App() {
                   name="heart"
                   size={27}
                   color="black"
-                  onPress={() => alert("Liked")}
+                  onPress={() => alert("Likedd")}
                 />
                 <Feather
                   style={styles.itemStatus}
